@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio2 {
     static void main(String[] args) {
         //Para atender às exigências do sistema, crie um programa que converta a quantidade de double para int, garantindo que os valores sejam adequados ao formato aceito.

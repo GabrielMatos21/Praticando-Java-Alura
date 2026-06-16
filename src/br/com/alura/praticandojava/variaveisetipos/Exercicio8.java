@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio8 {
     static void main(String[] args) {
         //Crie um programa que realize a conversão para dólares usando a taxa de câmbio e exiba o valor convertido.

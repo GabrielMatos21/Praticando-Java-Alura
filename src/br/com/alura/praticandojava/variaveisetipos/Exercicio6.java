@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio6 {
     static void main(String[] args) {
         //Escreva um programa que classifique um produto em uma categoria com base em um preço e exiba a categoria correspondente, conforme as seguintes regras:

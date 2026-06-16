@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio5 {
     public static void main(String[] args) {
         //Escreva um programa que armazene em variáveis as informações de um livro e com base na categoria armazenada exiba uma mensagem de confirmação de acordo com o que foi escolhido.

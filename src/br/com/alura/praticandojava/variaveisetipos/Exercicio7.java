@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio7 {
     static void main(String[] args) {
         //Escreva um programa que classifique um número e exiba uma mensagem informando se o número é par ou ímpar.

@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio4 {
     static void main(String[] args) {
         //Crie um programa que receba uma temperatura em graus Celsius (int) e exiba a temperatura convertida em graus Fahrenheit (double).

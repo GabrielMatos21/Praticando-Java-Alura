@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio9 {
     public static void main(String[] args) {
         //Identificar e corrigir o erro de escopo de variáveis no código.

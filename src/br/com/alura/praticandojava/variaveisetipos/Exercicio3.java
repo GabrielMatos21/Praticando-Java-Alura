@@ -1,3 +1,5 @@
+package br.com.alura.praticandojava.variaveisetipos;
+
 public class Exercicio3 {
     static void main(String[] args) {
         //Para resolver essa tarefa, você deve criar um programa que:
